@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a9757472d9cd7e3d415e384a44023f8e:19f9672795c7b26227be34c53f826b4c:2a288f7160b778d75d6fb3a0e2108afb$ -->
+<TextureAtlas imagePath="textures.png">
+    <SubTexture name="102" x="2" y="200" width="64" height="64"/>
+    <SubTexture name="avatar" x="398" y="200" width="64" height="64"/>
+    <SubTexture name="avatarwalk1" x="332" y="200" width="64" height="64"/>
+    <SubTexture name="avatarwalk2" x="266" y="142" width="64" height="64"/>
+    <SubTexture name="cloud" x="200" y="2" width="182" height="72"/>
+    <SubTexture name="103" x="200" y="142" width="64" height="64"/>
+    <SubTexture name="100" x="398" y="134" width="64" height="64"/>
+    <SubTexture name="101" x="332" y="134" width="64" height="64"/>
+    <SubTexture name="gavatar" x="450" y="2" width="40" height="62"/>
+    <SubTexture name="missing" x="266" y="76" width="64" height="64"/>
+    <SubTexture name="walk/avatarwalkright1" x="398" y="200" width="64" height="64"/>
+    <SubTexture name="walk/avatarwalkright2" x="332" y="200" width="64" height="64"/>
+    <SubTexture name="walk/avatarwalkright3" x="398" y="200" width="64" height="64"/>
+    <SubTexture name="walk/avatarwalkright4" x="266" y="142" width="64" height="64"/>
+    <SubTexture name="walk/pack/walkpack" x="2" y="2" width="196" height="196" frameX="-2" frameY="-2" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="walk/walkLeft/avatarwalkleft1" x="200" y="76" width="64" height="64"/>
+    <SubTexture name="walk/walkLeft/avatarwalkleft2" x="384" y="68" width="64" height="64"/>
+    <SubTexture name="walk/walkLeft/avatarwalkleft3" x="200" y="76" width="64" height="64"/>
+    <SubTexture name="walk/walkLeft/avatarwalkleft4" x="384" y="2" width="64" height="64"/>
+    <SubTexture name="white" x="398" y="200" width="64" height="64"/>
+</TextureAtlas>
